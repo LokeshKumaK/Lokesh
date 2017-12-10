@@ -1,11 +1,15 @@
 package Lokesh.Lokesh;
+
+import org.testng.annotations.Test;
+
 /**
  * Hello world!
  *
  */
 public class App 
 {
-    public static void main( String[] args )
+	@Test
+    public void test()
     {
         System.out.println( "Hello World!" );
     }
