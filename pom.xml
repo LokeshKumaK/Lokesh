@@ -7,23 +7,6 @@
   <version>0.0.1-SNAPSHOT</version>
   <name>Maven Quick Start Archetype</name>
   <url>http://maven.apache.org</url>
-  <build>
-    <plugins>
-        <plugin>
-            <groupId>org.apache.maven.plugins</groupId>
-            <artifactId>maven-compiler-plugin</artifactId>
-            <version>3.7.0</version>
-            <configuration>
-                <executable>C:\Program Files\Java\jdk-9.0.1\bin</executable>
-                <!-- <source>9.0.1</source>
-                <target>9.0.1</target> -->
-                <verbose>true</verbose>
-         	    <fork>true</fork>
-          		<compilerVersion>9.0.1</compilerVersion>
-            </configuration>
-        </plugin>
-    </plugins>
-</build>
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
