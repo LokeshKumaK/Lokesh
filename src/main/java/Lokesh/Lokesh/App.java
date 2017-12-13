@@ -12,6 +12,6 @@ public class App
     public void test()
     {
         System.out.println( "Hello World!" );
-        System.err.println("Welcome TO Github & Jenkins");
+        System.err.println("Welcome TO  Jenkins");
     }
 }
